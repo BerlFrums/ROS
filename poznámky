@@ -1,0 +1,9 @@
+Vytvoříme predmet.py
+Vytvoříme lokace.py
+Vytvoříme osoba.py
+Vytvoříme hra.py
+highscores.txt se vytvoří automaticky (přes kód v hra.py)
+
+Hraje se ve hra.py
+
+predmet.py, lokace.py a osoba.py vytváříme kvůli zadání (Každá třída bude v jiném souboru - procvičíme importy.)
